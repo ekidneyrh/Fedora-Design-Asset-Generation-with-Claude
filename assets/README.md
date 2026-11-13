@@ -6,7 +6,7 @@ This directory would be a copy of the [Fedora Design Team's assets](https://forg
 
 ## Name your files descriptively
 
-Claude picks assets based on their filenames. Vague names produce bad choices so make sure to be descriptive. An example:
+Claude picks assets based on their filenames. Vague names result in Claude making bad choices so make sure to be descriptive. An example:
 
 ```
 mascots/Beefy/
