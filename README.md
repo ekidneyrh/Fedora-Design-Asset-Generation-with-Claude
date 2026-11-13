@@ -11,7 +11,7 @@ This repository is the companion to the blog post **[Fedora Design Asset Generat
 ## Repository structure
 
 ```
-claude-fedora-design/
+/
 ├── CLAUDE.md          # Brand rules Claude reads on every request
 ├── assets/            # There source assets would be 
 └── outputs/           # Where generated files are stored
